@@ -9,7 +9,7 @@ My name is Inigo Montoya. I have the following qualities:
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-![](https://raw.githubusercontent.com/shellytrigg/TEST-beautiful-jekyll/master/img/thumb.png)
+![PLANTS!](https://raw.githubusercontent.com/shellytrigg/TEST-beautiful-jekyll/master/img/thumb.png)
 
 
 What else do you need?
